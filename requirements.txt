@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-community
+mem0ai
+fastapi
+uvicorn
+mcp
+fastmcp
+requests
+asyncio
+contextvars 
