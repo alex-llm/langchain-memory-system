@@ -20,7 +20,7 @@
 ## 📁 项目结构
 
 ```
-langchain-base-memery-20250607/
+langchain-memory-system/
 ├── README.md                 # 项目说明文档
 ├── requirements.txt          # Python 依赖
 ├── .env                     # 环境变量配置
@@ -53,7 +53,7 @@ langchain-base-memery-20250607/
 ```bash
 # 克隆项目
 git clone <your-repo-url>
-cd langchain-base-memery-20250607
+cd langchain-memory-system
 
 # 创建虚拟环境
 python3 -m venv .venv
